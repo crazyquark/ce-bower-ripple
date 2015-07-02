@@ -1,8 +1,8 @@
 {
-  "name": "ripple",
+  "name": "ce-ripple",
   "version": "0.12.5-rc2",
-  "homepage": "https://github.com/ripple/ripple-lib",
-  "description": "The Ripple JavaScript Library. Connect and interact to the Ripple network using the WebSocket protocol",
+  "homepage": "https://github.com/crazyquark/ripple-lib",
+  "description": "A fork of The Ripple JavaScript Library. Connect and interact to the Ripple network using the WebSocket protocol",
   "main": "./ripple.js",
   "dependencies": {}
 }
